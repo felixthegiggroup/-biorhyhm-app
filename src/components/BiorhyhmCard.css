@@ -1,0 +1,15 @@
+.biorhyhm-card p {
+  line-height: normal;
+}
+
+.biorhyhm-card .physical {
+  color: green;
+}
+
+.biorhyhm-card .emotional {
+  color: red;
+}
+
+.biorhyhm-card .intellectual {
+  color: blue;
+}
